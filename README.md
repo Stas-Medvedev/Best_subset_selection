@@ -1,2 +1,2 @@
 # Best_subset_selection
-This repo will contain the code for the best subset selection algorithm. The algorithm involves calculations and comparison of SSE, R^2, adjusted R^2, C, AIC, SBC, and PRESS values.
+The goal of this project is to implement a best subset selection algorithm for linear regression in Python that involves calculations and comparison of SSE, R^2, adjusted R^2, C, AIC, SBC, and PRESS criterion values.
